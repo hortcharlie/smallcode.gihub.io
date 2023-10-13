@@ -1,0 +1,27 @@
+*{
+    padding: 5px;
+    margin: 20px;
+    position: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.f1{
+    font-size: 18px;
+}
+.f2{
+    text-align: center;
+    color: blue;
+}
+.f3{
+    font-size: 30px;
+    text-align: right;
+}
+.f4{
+    font-size: 30px;
+    text-align: left;
+}
+.f5{
+    font-size: 30px;
+    text-align: justify;
+}
